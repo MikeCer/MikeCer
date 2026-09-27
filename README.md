@@ -10,6 +10,29 @@ I like turning ambitious ideas into things you can actually use: cloud platforms
 
 [LinkedIn](https://it.linkedin.com/in/michelecerreto) · [X @MikeCerreto](https://x.com/MikeCerreto) · [GitHub](https://github.com/MikeCer)
 
+## My toolbelt
+
+**Favorite languages & runtime**
+
+<p>
+  <img src="assets/icons/dot-net-original.svg" width="26" height="26" alt="" />&nbsp;.NET ·
+  <img src="assets/icons/csharp-original.svg" width="26" height="26" alt="" />&nbsp;C# ·
+  <img src="assets/icons/python-original.svg" width="26" height="26" alt="" />&nbsp;Python ·
+  <img src="assets/icons/c-original.svg" width="26" height="26" alt="" />&nbsp;C ·
+  <img src="assets/icons/cplusplus-original.svg" width="26" height="26" alt="" />&nbsp;C++ ·
+  <img src="assets/icons/rust-original.svg" width="26" height="26" alt="" />&nbsp;Rust
+</p>
+
+**Platforms & practice**
+
+<p>
+  <img src="assets/icons/azure-original.svg" width="26" height="26" alt="" />&nbsp;Azure ·
+  <img src="assets/icons/windows11-original.svg" width="26" height="26" alt="" />&nbsp;Windows ·
+  <img src="assets/icons/linux-plain.svg" width="26" height="26" alt="" />&nbsp;Linux
+</p>
+
+I bring Azure and broader Microsoft technology experience to cloud and AI work, alongside reverse-engineering and debugging expertise on both Windows and Linux.
+
 ## Things I've built
 
 - **[Blender MCP extension](https://github.com/MikeCer/blender-mcp-extension)** — connects Copilot CLI to Blender for AI-assisted 3D modeling.
@@ -33,4 +56,4 @@ A few threads from my [starred repositories](https://github.com/MikeCer?tab=star
 - **[PI-Buddy](https://github.com/gderossilive/PI-Buddy/pull/1)** — SRE agent diagnostic analysis; [follow-up](https://github.com/gderossilive/PI-Buddy/pull/3) improved Graph client logging and error handling.
 - **[SharpRepository](https://github.com/SharpRepository/SharpRepository/pull/84)** — MongoDB primary-key automapping; [another fix](https://github.com/SharpRepository/SharpRepository/pull/80) addressed MongoDB query and delete methods.
 
-<sub>Build something useful. Stay curious. Repeat.</sub>
+<sub>Build something useful. Stay curious. Repeat. · Technology icons by <a href="https://github.com/devicons/devicon">Devicon</a> (<a href="assets/icons/LICENSE">MIT license</a>).</sub>
