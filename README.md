@@ -18,6 +18,8 @@ I like turning ambitious ideas into things you can actually use: cloud platforms
   <img src="assets/icons/dot-net-original.svg" width="26" height="26" alt="" />&nbsp;.NET ·
   <img src="assets/icons/csharp-original.svg" width="26" height="26" alt="" />&nbsp;C# ·
   <img src="assets/icons/python-original.svg" width="26" height="26" alt="" />&nbsp;Python ·
+  <img src="assets/icons/javascript-original.svg" width="26" height="26" alt="" />&nbsp;JavaScript ·
+  <img src="assets/icons/typescript-original.svg" width="26" height="26" alt="" />&nbsp;TypeScript ·
   <img src="assets/icons/c-original.svg" width="26" height="26" alt="" />&nbsp;C ·
   <img src="assets/icons/cplusplus-original.svg" width="26" height="26" alt="" />&nbsp;C++ ·
   <img src="assets/icons/rust-original.svg" width="26" height="26" alt="" />&nbsp;Rust
