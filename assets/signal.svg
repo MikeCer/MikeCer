@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Signals and structures</title>
+  <desc id="desc">A mint signal travels across a dark grid, from an orbiting network to a violet wireframe structure.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#253147" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#64E6C1"/>
+      <stop offset="0.55" stop-color="#79C9F5"/>
+      <stop offset="1" stop-color="#BD9BFF"/>
+    </linearGradient>
+    <linearGradient id="halo" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#64E6C1" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#BD9BFF" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" rx="18" fill="#101A2B"/>
+  <rect width="1200" height="200" rx="18" fill="url(#grid)" opacity=".55"/>
+  <path d="M0 100H172l28-36 34 72 32-36h130l34-43 42 86 35-43h121l22-23 21 23h116l32-43 40 86 34-43h260" fill="none" stroke="#253E50" stroke-width="12" stroke-linejoin="round" opacity=".6"/>
+  <path d="M0 100H172l28-36 34 72 32-36h130l34-43 42 86 35-43h121l22-23 21 23h116l32-43 40 86 34-43h260" fill="none" stroke="url(#signal)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="148" cy="100" r="72" fill="url(#halo)" stroke="#64E6C1" stroke-opacity=".55"/>
+  <circle cx="148" cy="100" r="48" fill="none" stroke="#64E6C1" stroke-opacity=".42" stroke-dasharray="3 7"/>
+  <path d="M105 100l43-29 43 29-43 29zM148 71v58M105 100h86" fill="none" stroke="#92F2D5" stroke-width="2"/>
+  <circle cx="105" cy="100" r="5" fill="#92F2D5"/>
+  <circle cx="148" cy="71" r="5" fill="#92F2D5"/>
+  <circle cx="191" cy="100" r="5" fill="#92F2D5"/>
+  <circle cx="148" cy="129" r="5" fill="#92F2D5"/>
+  <circle cx="430" cy="57" r="5" fill="#79C9F5"/>
+  <circle cx="650" cy="77" r="5" fill="#79C9F5"/>
+  <circle cx="837" cy="57" r="5" fill="#BD9BFF"/>
+  <circle cx="1000" cy="100" r="76" fill="url(#halo)" stroke="#BD9BFF" stroke-opacity=".45"/>
+  <g fill="none" stroke="#D4BCFF" stroke-width="2" stroke-linejoin="round">
+    <path d="M1000 39l53 30v61l-53 31-53-31V69z"/>
+    <path d="M947 69l53 31 53-31M1000 100v61M1000 39v61"/>
+  </g>
+  <circle cx="1000" cy="100" r="6" fill="#D4BCFF"/>
+  <circle cx="1053" cy="69" r="4" fill="#D4BCFF"/>
+  <circle cx="947" cy="130" r="4" fill="#D4BCFF"/>
+</svg>
