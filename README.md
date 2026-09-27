@@ -8,7 +8,7 @@
 
 I like turning ambitious ideas into things you can actually use: cloud platforms, AI agents, developer tools, and the occasional project that needs a soldering iron.
 
-[LinkedIn](https://it.linkedin.com/in/michelecerreto) · [GitHub](https://github.com/MikeCer)
+[LinkedIn](https://it.linkedin.com/in/michelecerreto) · [X @MikeCerreto](https://x.com/MikeCerreto) · [GitHub](https://github.com/MikeCer)
 
 ## Things I've built
 
