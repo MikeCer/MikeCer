@@ -6,7 +6,7 @@
 
 **Cloud & AI Enterprise Solution Architect at Microsoft · maker & builder · Caserta, Italy**
 
-I like turning ambitious ideas into things you can actually use: cloud platforms, AI agents, developer tools, and the occasional project that needs a soldering iron.
+I like turning ambitious ideas into things you can actually use: cloud platforms, AI agents, developer tools, and hardware hacking that gives old devices a second life.
 
 [LinkedIn](https://it.linkedin.com/in/michelecerreto) · [X @MikeCerreto](https://x.com/MikeCerreto) · [GitHub](https://github.com/MikeCer)
 
@@ -16,6 +16,7 @@ I like turning ambitious ideas into things you can actually use: cloud platforms
 - **[Copilot plugins](https://github.com/MikeCer/copilot-plugins)** — a community marketplace for Copilot plugins.
 - **[Azure TTE](https://github.com/MikeCer/azure_tte)** — Azure-native traffic management with a queue for high-traffic web events.
 - **[VeloSync](https://github.com/MikeCer/velosync)** — indoor cycling video that adapts to your speed using BLE sensors or ESP8266 hardware.
+- **[Anyka AK3918 Unchained](https://github.com/MikeCer/anyka-ak3918-unchained)** — a camera firmware rescue guide for restoring local RTSP/ONVIF access after vendor cloud services go away.
 
 ## Where curiosity takes me
 
