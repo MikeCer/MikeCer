@@ -37,6 +37,8 @@ I bring Azure and broader Microsoft technology experience to cloud and AI work, 
 
 ## Things I've built
 
+- **[DrawDock](https://github.com/MikeCer/DrawDock)** — turns an Android tablet and stylus into a live Windows annotation companion, with a native Rust overlay, Kotlin client, screen mirroring, and authenticated TLS pairing.
+- **[Azure FarSight](https://github.com/MikeCer/agent-azure-farsight)** *(early-stage)* — a governed diagnostics platform connecting Azure SRE Agent tools to targeted, read-only evidence from Intune-managed Windows devices.
 - **[Blender MCP extension](https://github.com/MikeCer/blender-mcp-extension)** — connects Copilot CLI to Blender for AI-assisted 3D modeling.
 - **[Copilot plugins](https://github.com/MikeCer/copilot-plugins)** — a community marketplace for Copilot plugins.
 - **[Azure TTE](https://github.com/MikeCer/azure_tte)** — Azure-native traffic management with a queue for high-traffic web events.
